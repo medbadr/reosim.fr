@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="3E7770BA-7A17-4F25-9FE4-45A67EC7CA1E">
+  <lastEdited clientType="local-build-20130228" date="2013-02-28 21:51:27 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Articles&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Nouveau projet et production informatique</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;Une remarque &#xE0; partager sur le projet informatique port&#xE9; dans le monde de l&#x2019;industrie : &#xAB;le projet, nonobstant sa finalit&#xE9; fonctionnelle, se doit d&#x2019;&#xEA;tre industrialisable&#xBB;.&#xD;&#xD;C&#x2019;est &#xE0; dire, qu&#x2019;apr&#xE8;s, juste imm&#xE9;diatement apr&#xE8;s avoir arbitr&#xE9; le d&#xE9;marrage d&#x2019;un projet, l&#x2019;objectif qui doit &#xEA;tre fix&#xE9; est : bien s&#xFB;r d&#x2019;avoir un produit conforme aux sp&#xE9;cifications du m&#xE9;tier de l&#x2019;entreprise, mais c&#x2019;est surtout un nouveau produit qui doit &#xEA;tre fourni ind&#xE9;finiment au del&#xE0; de cette premi&#xE8;re attente.&#xD;&#xD;Appliqu&#xE9; au cas particulier de l&#x2019;informatique, ceci induit que les projets embarquent d&#xE8;s leur conception les &#xE9;l&#xE9;ments cl&#xE9;s qui permettront d&#x2019;arrimer l&#x2019;application au standards de l&#x2019;usine et donc de la production informatique.&#xD;Dans la continuit&#xE9; du point pr&#xE9;c&#xE9;dent, cette nouvelle application qui est conforme &#xE0; ces objectifs devrait permettre de surcro&#xEE;t de mieux produire : plus vite, au bon niveau de qualit&#xE9; et au meilleur co&#xFB;t. Pouss&#xE9;e jusqu&#x2019;au bout, cette finalit&#xE9; peut induire de revoir totalement le mode de conception de l&#x2019;application mais &#xE9;galement celui de l&#x2019;usine &#xE0; savoir de la production informatique.&#xD;&#xD;Cet &#xE9;clairage &#xE9;vident met en relief les deux pr&#xE9;conisations suivantes : la premi&#xE8;re est que les projets informatiques doivent d&#xE9;passer l&#x2019;objectif de la d&#xE9;monstration technique, la deuxi&#xE8;me est que les productions informatique doivent &#xEA;tre capable de remettre leur mod&#xE8;le en cause afin d&#x2019;accompagner les projets &#xE0; atteindre l&#x2019;objectif commun fix&#xE9; : un nouveau service, d&#xE9;livr&#xE9; ind&#xE9;finiment, au bon niveau de qualit&#xE9;, au meilleur co&#xFB;t.&#xD;&#xD;Sur ce th&#xE8;me, les propositions d&#x2019;ITIL dans le cadre du d&#xE9;ploiement du processus du Release Management permettent une avanc&#xE9;e significative. Il appara&#xEE;t &#xE9;galement que les travaux engag&#xE9;s au travers d&#x2019;ITIL sur ce sujet sont promis &#xE0; progresser rapidement dans les ann&#xE9;es &#xE0; venir.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;jeudi 28 f&#xE9;vrier 2013&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Release_Management_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

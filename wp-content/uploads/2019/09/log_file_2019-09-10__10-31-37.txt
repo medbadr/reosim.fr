@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: PATTI DEMO CONTENT were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://reosim.fr/wordpressv1
+Data file = /home/reosim/www/wordpressv1/wp-content/uploads/2019/09/demo-content-import-file_2019-09-10__10-31-37.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+

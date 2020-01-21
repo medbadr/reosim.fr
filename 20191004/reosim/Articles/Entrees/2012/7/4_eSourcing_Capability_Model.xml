@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="3E7770BA-7A17-4F25-9FE4-45A67EC7CA1E">
+  <lastEdited clientType="local-build-20120704" date="2012-07-04 13:39:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Articles&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>eSourcing Capability Model&#xD;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>eSCM (pour eSourcing Capability Model) est un &lt;a href="http://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rentiel"&gt;r&#xE9;f&#xE9;rentiel&lt;/a&gt; &#xE9;labor&#xE9; depuis 2001 par l'&lt;a href="http://fr.wikipedia.org/wiki/Universit%C3%A9_Carnegie_Mellon"&gt;Universit&#xE9; Carnegie Mellon&lt;/a&gt;/ItSQC afin d'am&#xE9;liorer la relation entre clients et fournisseurs dans le cadre de la fourniture de services utilisant les &lt;a href="http://fr.wikipedia.org/wiki/Technologies_de_l%27information"&gt;technologies de l'information&lt;/a&gt;.&#xD;Ces services sont de nature tr&#xE8;s diverse&#xA0;: &lt;a href="http://fr.wikipedia.org/wiki/Infog%C3%A9rance"&gt;infog&#xE9;rance&lt;/a&gt;, externalisation du support informatique, tierce maintenance, fourniture de liaisons de t&#xE9;l&#xE9;communications, centres d'h&#xE9;bergement de syst&#xE8;mes informatiques, services de paie cl&#xE9;-en-main, fourniture de services applicatifs, etc.&#xD;eSCM a la particularit&#xE9; de poss&#xE9;der deux volets, &lt;a href="http://fr.wikipedia.org/wiki/ESCM-CL"&gt;eSCM-CL&lt;/a&gt; (pour &#xAB;&#xA0;Clients&#xA0;&#xBB;), pour les clients, et &lt;a href="http://fr.wikipedia.org/wiki/ESCM-SP"&gt;eSCM-SP&lt;/a&gt; (pour &#xAB;&#xA0;Service Providers&#xA0;&#xBB;) pour les prestataires. L'existence de ces deux mod&#xE8;les compl&#xE9;mentaires, sym&#xE9;triques et coh&#xE9;rents pour chacune des parties de la relation est l'une des originalit&#xE9;s profondes d'eSCM.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mercredi 4 juillet 2012&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_eSourcing_Capability_Model_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Articles</title>
+    <link>http://www.reosim.fr/reosim/Articles</link>
+    <description>
+
+
+
+Des exp&#xE9;riences &#xE0; partager</description>
+    <item>
+      <title>Nouveau projet et production informatique</title>
+      <link>http://www.reosim.fr/reosim/Articles/Entrees/2013/2/28_Release_Management.html</link>
+      <guid isPermaLink="false">335c3401-c315-44e3-a278-f3c7d5359439</guid>
+      <pubDate>Thu, 28 Feb 2013 19:51:56 +0100</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.reosim.fr/reosim/Articles/Entrees/2013/2/28_Release_Management.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Information Technology Infrastructure Library</title>
+      <link>http://www.reosim.fr/reosim/Articles/Entrees/2012/7/4_Information_Technology_Infrastructure_Library.html</link>
+      <guid isPermaLink="false">070c8817-b1b6-4cfb-aa04-da2691c07d44</guid>
+      <pubDate>Wed, 4 Jul 2012 15:31:46 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.reosim.fr/reosim/Articles/Entrees/2012/7/4_Information_Technology_Infrastructure_Library.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>eSourcing Capability Model&#13;</title>
+      <link>http://www.reosim.fr/reosim/Articles/Entrees/2012/7/4_eSourcing_Capability_Model.html</link>
+      <guid isPermaLink="false">4958a15b-2a5f-452f-9c7a-981d31d7b115</guid>
+      <pubDate>Wed, 4 Jul 2012 13:07:36 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.reosim.fr/reosim/Articles/Entrees/2012/7/4_eSourcing_Capability_Model.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://www.reosim.fr/reosim/Articles</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
