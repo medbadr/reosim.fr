@@ -1,4 +1,4 @@
-baseURL: https://medbadr.github.io/reosim.fr
+baseURL: https://medbadr.github.io/
 theme: hugobricks
 defaultContentLanguage: fr
 assetDir: static
