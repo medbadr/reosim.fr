@@ -1,0 +1,22 @@
+baseURL: https://reosim.fr
+theme: hugobricks
+defaultContentLanguage: fr
+assetDir: static
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML in md files
+
+languages:
+  en:
+    languageName: English
+    contentDir: content/en
+    weight: 2
+    disabled: true
+  fr:
+    languageName: frensh
+    contentDir: content/fr
+    weight: 1
+    disabled: false
+

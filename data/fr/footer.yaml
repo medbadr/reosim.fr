@@ -1,0 +1,19 @@
+logo_image:
+dark_footer: true
+menuitems:
+  - title: A propos
+    link:  /about/
+  - title: Blog
+    link:  /blog/
+  - title: Contact
+    link:  /contact-us/
+  - title: Mentions légales
+    link:  /privacy-policy/
+socials:
+  - title: Github
+    link: https://github.com/reosim
+    logo_image: /img/github.svg
+  - title: Linkedin
+    link: https://www.linkedin.com/in/jan-van-dravik/
+    logo_image: /img/linkedin.svg           
+footer_text: Copyright © reosim 2024. Thème inspiré du projet opensource [Hugobricks](https://github.com/jhvanderschee/hugobricks)

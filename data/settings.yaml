@@ -1,0 +1,11 @@
+favicon_image: /uploads/branding/reosim_icon.png
+logo_image: /uploads/branding/reosim_logo.svg
+sticky_header: true
+customcursor: false
+intersectionobserver: true
+filter_has_numbers: true
+page_size: 3
+preheader: 
+  active: false
+  is_light: true
+  text: Open Mon-Fri from 9.00-5.00
